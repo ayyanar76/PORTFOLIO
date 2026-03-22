@@ -65,7 +65,7 @@ export const projects = [
       "Admin Dashboard for Order Management"
     ],
     focus: "Full Stack MERN Application",
-    live: "https://tomato-front-zvpu.onrender.com/login",
+    live: "https://tomato-front-zvpu.onrender.com",
     github: "" // add later if needed
   },
   {
