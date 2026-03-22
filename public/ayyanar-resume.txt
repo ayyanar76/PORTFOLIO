@@ -1,0 +1,35 @@
+Ayyanar Murugan
+Aspiring Full-Stack Web Developer
+
+Phone: +91 6382678350
+Email: ayyanarmurugan896@gmail.com
+Location: Virudhunagar, Tamil Nadu, India
+
+About
+Aspiring Full-Stack Web Developer with hands-on experience in frontend technologies
+and growing expertise in backend development. Strong problem-solving mindset and
+passion for learning new tools, frameworks, and best practices to build scalable
+web applications.
+
+Education
+Bachelor of Information & Technology
+AAA College of Engineering
+2024 - Present
+
+Skills
+- JavaScript
+- Node.js
+- React
+- API
+- Python
+- Responsive Design
+- Authentication & Authorization
+
+Project Experience
+Ecommerce Website
+- Built a complete ecommerce website with authentication and authorization.
+- Created an admin panel and responsive design for a smoother user experience.
+
+Languages
+- English
+- Tamil
